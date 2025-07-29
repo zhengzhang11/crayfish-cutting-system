@@ -358,7 +358,7 @@ graph TD
     C --> I[MPDIoU损失]
     
     D --> J[YOLOv11检测]
-    D --> K[SAM分割]
+    D --> K[DeeplabV3+分割]
     D --> L[轮廓提取]
     
     G --> M[小龙虾检测结果]
