@@ -1,9 +1,9 @@
 # 小龙虾智能视觉切割系统
 
-![登录界面](images\introduction\login.png)
-![平台主界面](images\introduction\app.png)
-![虾尾目标检测系统](images\introduction\detect.png)
-![虾头实例分割系统](images\introduction\seg.png)
+![登录界面](\images\introduction\login.png)
+![平台主界面](\images\introduction\app.png)
+![虾尾目标检测系统](\images\introduction\detect.png)
+![虾头实例分割系统](\images\introduction\seg.png)
 ## 1. 项目简介
 
 **小龙虾智能视觉切割系统**是一个专为**小龙虾虾尾及头部精确切割**而设计的交互式视觉识别平台。本系统基于 Python 和 PyQt5 构建，融合了多种前沿的计算机视觉和深度学习技术，专注于解决小龙虾自动化处理过程中的核心技术难题。
