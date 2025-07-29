@@ -1,0 +1,12 @@
+PyQt5
+pygame
+opencv-python
+numpy
+moviepy
+mutagen
+torch
+ultralytics
+pyaudio
+PyYAML
+tqdm
+wandb
